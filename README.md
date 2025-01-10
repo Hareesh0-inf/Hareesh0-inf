@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hareesh0-inf
+- 👋 Hi, I’m Hareesh
 - 👀 I’m interested in AI, ML and Fullstack developing
 - 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on new projects
